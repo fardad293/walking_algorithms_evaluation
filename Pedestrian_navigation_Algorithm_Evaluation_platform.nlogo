@@ -1199,7 +1199,7 @@ to make-turtles
       set d-min 0
       set m-line []
     ]
-    if algorithm = "COPE0" [
+    if algorithm = "M-DB" [
       set step r   ;; set value to that of R (unless it will be problematic!)
       set d-min 0
     ]
