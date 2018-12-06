@@ -71,8 +71,9 @@ to setup-random
   ask patches with [pcolor = brown] [ ask patches in-radius random-float 3 [ set pcolor brown ] ]
   repeat 4
   [
-  ask patches with [count neighbors4 with [pcolor = brown] >= 3] [ set pcolor brown ]
+    ask patches with [count neighbors4 with [pcolor = brown] >= 3] [ set pcolor brown ]
   ]
+  ask patches with [pxcor = max-pxcor or pxcor = min-pxcor or pycor = max-pycor or pycor = min-pycor] [set pcolor black]
 end
 
 to L-obstacle
