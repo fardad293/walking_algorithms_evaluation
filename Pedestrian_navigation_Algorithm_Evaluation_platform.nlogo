@@ -1424,7 +1424,7 @@ INPUTBOX
 480
 188
 walk-method
-0.0
+1.0
 1
 0
 Number
@@ -1490,7 +1490,7 @@ INPUTBOX
 479
 118
 population
-1000.0
+100.0
 1
 0
 Number
