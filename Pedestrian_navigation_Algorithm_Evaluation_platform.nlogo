@@ -1545,7 +1545,7 @@ CHOOSER
 253
 algorithm
 algorithm
-"Bug1" "Bug2" "VisBug" "DistBug" "TangentBug" "TangentBug(2)" "K-Bug" "M-DB" "Vertex"
+"Bug1" "Bug2" "DistBug" "TangentBug" "TangentBug(2)" "K-Bug" "M-DB" "Vertex"
 7
 
 SWITCH
