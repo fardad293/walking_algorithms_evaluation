@@ -2,4 +2,6 @@
 
 Developed for agent-based pedestrian evacuation simulation
 
-[Click here to try it online.](http://netlogoweb.org/web?https://raw.githubusercontent.com/fardadhp/walking_algorithms_evaluation/master/Pedestrian_navigation_Algorithm_Evaluation_platform.nlogo){:target="_blank" rel="noopener"}
+<a href="http://netlogoweb.org/web?https://raw.githubusercontent.com/fardadhp/walking_algorithms_evaluation/master/Pedestrian_navigation_Algorithm_Evaluation_platform.nlogo" target="_blank">Go</a>
+
+[Click here to try it online.](http://netlogoweb.org/web?https://raw.githubusercontent.com/fardadhp/walking_algorithms_evaluation/master/Pedestrian_navigation_Algorithm_Evaluation_platform.nlogo)
